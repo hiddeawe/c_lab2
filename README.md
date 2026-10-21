@@ -157,4 +157,6 @@
 
 ### Тестирование
 
+<img width="413" height="180" alt="изображение" src="https://github.com/user-attachments/assets/22145900-2405-4ef9-9c2c-7d7909da86bf" />
+
   
