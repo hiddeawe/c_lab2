@@ -60,4 +60,4 @@ void Print(const std::deque<std::string>& values) {
   PrintRange(values.begin(), values.end());
 }
 
-}  // namespace lab2
+}
