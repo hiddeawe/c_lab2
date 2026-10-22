@@ -21,6 +21,6 @@ void Print(const std::deque<int>& values);
 void Print(const std::list<int>& values);
 void Print(const std::deque<std::string>& values);
 
-}  // namespace lab2
+}  
 
-#endif  // LAB2_IO_UTILS_H_
+#endif 
