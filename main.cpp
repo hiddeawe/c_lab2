@@ -1,3 +1,4 @@
+// Лабораторная работа №2, вариант 7. C++17.
 #include <clocale>
 #include <iostream>
 
