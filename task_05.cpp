@@ -18,7 +18,10 @@ void RunTask05() {
 
   auto match = std::find_first_of(v.rbegin() + n / 2, v.rend(),
                                   v.begin() + n / 2, v.end());
-  if (match != v.rend()) v.insert(std::prev(match.base()), 0);
+  if (match != v.rend()) {
+  const int first_element = v[0];
+  v.insert(std::prev(match.base()), first_element);
+  }
   std::cout << "V: ";
   Print(v);
 }
